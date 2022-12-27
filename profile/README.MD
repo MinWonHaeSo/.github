@@ -23,7 +23,7 @@
 [//]: # (- 체육관 등록 / 예약 현황)
 
 ## 🗂️ Architecture
-![ESC Structure drawio](https://user-images.githubusercontent.com/67897318/209688567-30a74f61-4dc7-4e39-a1e3-47ff2465a499.png)
+![ESC Structure drawio (1)](https://user-images.githubusercontent.com/67897318/209692540-eaf36a32-c423-4241-b1bc-541a4e9adaa0.png)
 
 ## 💾 ERD 구조
 ![ERD](https://user-images.githubusercontent.com/67897318/209691592-a0eff716-11e4-4748-a164-d1e5c91646a2.png)
