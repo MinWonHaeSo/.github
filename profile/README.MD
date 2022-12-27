@@ -26,7 +26,7 @@
 ![ESC Structure drawio (1)](https://user-images.githubusercontent.com/67897318/209692540-eaf36a32-c423-4241-b1bc-541a4e9adaa0.png)
 
 ## 💾 ERD 구조
-![ERD](https://user-images.githubusercontent.com/67897318/209691592-a0eff716-11e4-4748-a164-d1e5c91646a2.png)
+![db](https://user-images.githubusercontent.com/67897318/209694964-74652d21-0e40-4357-9f81-106b391a5c71.png)
 
 ## 🛠️ 기술 스택
 ### Front-End
