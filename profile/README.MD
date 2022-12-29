@@ -17,23 +17,23 @@
 
 |                   🚀 소셜 로그인(카카오, 네이버, 구글)                  |                   🔍 주변 체육관 찾기                  | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
-| <img src="https://user-images.githubusercontent.com/99726297/209846338-71ff9b2c-7528-4f85-b656-f7deb02a1a1d.gif" alt="유저_맞춤_술_추천" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209846338-71ff9b2c-7528-4f85-b656-f7deb02a1a1d.gif" alt="유저_맞춤_술_추천" width=80%> | 
+| <img src="https://user-images.githubusercontent.com/99726297/209918245-4f292d9f-586a-495c-b69e-1c79eaf18632.gif" alt="소셜 로그인" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209918330-08383e54-5bd3-410d-a88c-5f3e65f42f1b.gif" alt="주변 체육관 찾기" width=80%> | 
 
-|                   💵 체육관 예약 및 결제              |                   📝 리뷰 작성                 | 
+|                   💵 체육관 예약 및 결제              |                   📝 리뷰 작성 / 수정                | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
-| <img src="https://user-images.githubusercontent.com/99726297/209846338-71ff9b2c-7528-4f85-b656-f7deb02a1a1d.gif" alt="유저_맞춤_술_추천" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209846338-71ff9b2c-7528-4f85-b656-f7deb02a1a1d.gif" alt="유저_맞춤_술_추천" width=80%>  | 
+| <img src="https://user-images.githubusercontent.com/99726297/209918399-297de0ad-b7f1-4e47-b3e9-3f467a6444de.gif" alt="체육관 예약 및 결제" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209918489-28afd68e-aaa4-4b0a-8eb4-d5321e1833a2.gif" alt="리뷰 작성" width=80%>  | 
 
 |                   🔖 찜하기                 |                    🔔 알림 내역                  | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
-| <img src="https://user-images.githubusercontent.com/99726297/209846338-71ff9b2c-7528-4f85-b656-f7deb02a1a1d.gif" alt="유저_맞춤_술_추천" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209846338-71ff9b2c-7528-4f85-b656-f7deb02a1a1d.gif" alt="유저_맞춤_술_추천" width=80%>  | 
+| <img src="https://user-images.githubusercontent.com/99726297/209920443-2df9d9bc-8167-42ba-bb4d-36bb22060164.gif" alt="찜하기" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209918729-3f985c32-732c-41cb-9e77-f6831e1ad408.gif" alt="알림 내역" width=80%>  | 
 
 |                   🧑🏻‍💻 판매자 회원가입                |                   🚀 판매자 일반 로그인                  | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
-| <img src="https://user-images.githubusercontent.com/99726297/209846338-71ff9b2c-7528-4f85-b656-f7deb02a1a1d.gif" alt="유저_맞춤_술_추천" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209846338-71ff9b2c-7528-4f85-b656-f7deb02a1a1d.gif" alt="유저_맞춤_술_추천" width=80%>  | 
+| <img src="https://user-images.githubusercontent.com/99726297/209846338-71ff9b2c-7528-4f85-b656-f7deb02a1a1d.gif" alt="판매자 회원가입" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209918819-66cb4de4-dbbb-478d-8b78-d0052b0e1221.gif" alt="판매자 일반 로그인" width=80%>  | 
 
-|                   🏋🏿 체육관 등록                  |                  ✅ 예약 현황                 | 
+|                   🏋🏿 체육관 등록 / 수정                  |                  ✅ 예약 현황                 | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
-| <img src="https://user-images.githubusercontent.com/99726297/209846338-71ff9b2c-7528-4f85-b656-f7deb02a1a1d.gif" alt="유저_맞춤_술_추천" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209846338-71ff9b2c-7528-4f85-b656-f7deb02a1a1d.gif" alt="유저_맞춤_술_추천" width=80%>  | 
+| <img src="https://user-images.githubusercontent.com/99726297/209919918-dd6995a8-9d52-4d8c-975d-48cf15951797.gif" alt="유저_맞춤_술_추천" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209919079-8040b259-5f73-4f11-bafe-deaa4b540e56.gif" alt="관리자 체육관 예약 현황" width=80%>  | 
 
 
 
