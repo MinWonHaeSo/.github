@@ -1,4 +1,4 @@
-# ⚽ Easy Sports Club Server ⚽
+# ⚽ Easy Sports Club ⚽
 
 <br/>
 
